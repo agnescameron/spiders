@@ -1,0 +1,21 @@
+{
+  "name": "spider",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "fetch": "^1.1.0",
+    "node-fetch": "^2.6.1",
+    "webpack": "^5.2.0"
+  },
+  "dependencies": {
+    "js-markov": "^3.0.3",
+    "markov": "0.0.7"
+  }
+}
